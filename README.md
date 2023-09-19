@@ -6,7 +6,7 @@ Lista de tarefas
 
 
 ## Sobre o projeto
-Aplicativo de lista de tarefas com autentificação para cada usuario, acessar uma conta já existente ou criar uma nova, onde cada usuario pode adicionar, editar e remover uma tarefa
+Aplicativo de lista de tarefas com autenticação para cada usuario, acessar uma conta já existente ou criar uma nova, onde cada usuario pode adicionar, editar e remover uma tarefa
 ## Demonstração
 
 
